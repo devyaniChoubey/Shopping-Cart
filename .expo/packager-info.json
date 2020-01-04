@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 15408,
+  "expoServerNgrokUrl": "https://dx-cdu.anonymous.shopping-cart.exp.direct",
+  "packagerNgrokUrl": "https://packager.dx-cdu.anonymous.shopping-cart.exp.direct",
+  "ngrokPid": 6308,
+  "webpackServerPort": null
+}
